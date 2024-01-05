@@ -1,0 +1,3 @@
+default:
+  extension: .rs
+  output: base16-egui.rs
